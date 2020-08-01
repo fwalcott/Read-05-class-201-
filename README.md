@@ -1,6 +1,6 @@
 # Read 05 HTML Images Color and Text
 
-***Duckett HTML Chapter 5: page 94-15 
+***Duckett HTML Chapter 5: page 94-15*** 
 
 ### Is the align tag used in HTML5?
 ~~~
